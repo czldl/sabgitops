@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-<jnlp codebase="https://czldl.github.io/sabgitops/" href="sabgitops.jnlp"> 
+<jnlp codebase="http://osgisone.gitee.io/sabgitops/" href="sabgitops.jnlp"> 
 	<information> 
 		<title>JWS to Run SABGitOps</title> 
 		<vendor>czldl</vendor> 
 		<description>SAB GitOps</description> 
-		<homepage href="https://czldl.github.io/sabgitops/index.html"/> 
+		<homepage href="http://osgisone.gitee.io/sabgitops/index.html"/> 
 		<offline-allowed/> 
 	</information> 
 	<security> 
